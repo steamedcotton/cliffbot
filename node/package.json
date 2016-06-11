@@ -1,0 +1,18 @@
+{
+  "name": "cliffhangerbot",
+  "version": "0.0.1",
+  "description": "Robot that displays data in the form of a yoldler climbing a mountain",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "node-tweet-stream": "^1.10.0",
+    "serialport": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Erickson",
+  "license": "ISC"
+}
